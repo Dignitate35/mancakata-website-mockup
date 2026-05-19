@@ -1,0 +1,68 @@
+PETUNJUK DOWNLOAD & SETUP
+========================
+
+📥 FILE YANG BISA DIDOWNLOAD:
+
+1. **Mancakata-Standalone.html** (RECOMMENDED)
+   - Single file, 2MB
+   - Buka langsung di browser, tidak butuh file lain
+   - Cocok untuk portofolio instant
+
+2. **HTML Files Terpisah** (untuk GitHub)
+   - Mancakata.html (master dengan semua tweaks)
+   - Mancakata - Enterprise.html
+   - Mancakata - Split.html
+   - Mancakata - Editorial.html
+   - index.html (landing page)
+
+3. **Asset Files**
+   - styles.css
+   - chrome.jsx
+   - sections.jsx
+   - pages.jsx
+   - cms.jsx
+   - tweaks-panel.jsx
+   - assets/logo-mancakata.jpeg
+
+4. **Documentation**
+   - README.md
+   - IMPLEMENTATION_PLAN.md
+   - .gitignore
+
+========================
+
+🚀 CARA PAKAI:
+
+Opsi A - Standalone (PALING MUDAH):
+1. Download "Mancakata-Standalone.html"
+2. Buka di browser (Chrome, Firefox, Safari, Edge)
+3. Selesai! Klik Tweaks panel, explore semua halaman & CMS
+
+Opsi B - Untuk GitHub/Vercel:
+1. Download semua files di atas
+2. Buat folder: "mancakata-website-design"
+3. Masukkan semua files ke folder
+4. Push ke GitHub
+5. Deploy ke Vercel
+
+Opsi C - Manual Copy-Paste:
+1. Buka tiap file HTML di sini
+2. Copy isi
+3. Paste ke text editor (VS Code, Sublime, dll)
+4. Save dengan nama yang sama
+5. Repeat untuk semua files
+
+========================
+
+❓ MASALAH DOWNLOAD?
+
+Jika download button tidak bekerja:
+- Coba browser lain (Chrome, Firefox)
+- Cek folder Downloads
+- Disable ad-blocker
+- Refresh halaman ini
+
+Untuk akses langsung ke files, hubungi support atau
+gunakan GitHub: https://github.com/yourname/mancakata-website-design
+
+========================
