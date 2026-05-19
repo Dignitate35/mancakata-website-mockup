@@ -19,12 +19,12 @@ Ini adalah **hi-fi prototype & specification** lengkap untuk website Mancakata, 
 
 ## 🚀 Demo Live
 
-**Vercel:** https://mancakata-website-design.vercel.app
+**Vercel:** https://mancakata-website-mockup.vercel.app
 
 Atau buka salah satu variasi hero:
-- [Enterprise Hero](https://mancakata-website-design.vercel.app/Mancakata%20-%20Enterprise.html)
-- [Split Hero](https://mancakata-website-design.vercel.app/Mancakata%20-%20Split.html)
-- [Editorial Hero](https://mancakata-website-design.vercel.app/Mancakata%20-%20Editorial.html)
+- [Enterprise Hero](https://mancakata-website-mockup.vercel.app/Mancakata%20-%20Enterprise.html)
+- [Split Hero](https://mancakata-website-mockup.vercel.app/Mancakata%20-%20Split.html)
+- [Editorial Hero](https://mancakata-website-mockup.vercel.app/Mancakata%20-%20Editorial.html)
 
 ---
 
@@ -130,6 +130,12 @@ Drag-drop section repeater with live Blade code preview, JSON content inspector,
 Multi-step form (3 steps: project brief → contact info → success).
 
 ---
+
+## 📍 Repository
+
+- **GitHub:** https://github.com/Dignitate35/mancakata-website-mockup
+- **Vercel:** https://mancakata-website-mockup.vercel.app
+- **Status:** Live ✅
 
 ## 🎯 Brand Voice
 
